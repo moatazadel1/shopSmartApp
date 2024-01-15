@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "658847833241",
+    "project_id": "smart-shoppe-f5bed",
+    "storage_bucket": "smart-shoppe-f5bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658847833241:android:e0779a49f287acabd62c08",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658847833241-2cr1aorjudvlno70b3k4mjq2ijpg3u13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_panel",
+            "certificate_hash": "a931b60c62184b96285f175cbbb96019e6cbf169"
+          }
+        },
+        {
+          "client_id": "658847833241-tqq8825k0snpfpprd1hetjl3grkif0ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYETFwZolw4-pycyFFQFT8Cqp_dhCWHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658847833241-tqq8825k0snpfpprd1hetjl3grkif0ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658847833241-43gto3fipdq9oe4rhh24uirpo63ukkng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartShoppe.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658847833241:android:d437f842e0b7cc24d62c08",
+        "android_client_info": {
+          "package_name": "com.example.smart_shoppe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658847833241-tqq8825k0snpfpprd1hetjl3grkif0ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYETFwZolw4-pycyFFQFT8Cqp_dhCWHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658847833241-tqq8825k0snpfpprd1hetjl3grkif0ji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658847833241-43gto3fipdq9oe4rhh24uirpo63ukkng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartShoppe.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
