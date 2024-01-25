@@ -1,6 +1,6 @@
 # smart_shoppe
 
-A new Flutter project.
+E-commerce flutter app for the users to browse and purchase products.
 
 ## Getting Started
 
