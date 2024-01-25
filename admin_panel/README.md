@@ -1,7 +1,6 @@
 # admin_panel
 
-A new Flutter project.
-
+Flutter app for the admin to upload & edit products.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
